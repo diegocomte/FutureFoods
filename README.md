@@ -18,7 +18,7 @@ O Future Eats tem por objetivo emular um aplicativo de delivery. Ancorados nos m
 
 ## Instalação
 ```
-$ git clone https://github.com/future4code/Moreira-pokedex2.git
+$ git clone https://github.com/future4code/Moreira-labe-food1
 $ npm install
 $ npm start
 ```
